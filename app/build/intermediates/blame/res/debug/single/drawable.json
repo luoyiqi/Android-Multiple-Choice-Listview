@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_on_background.png",
+        "source": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\src\\main\\res\\drawable\\checkbox_on_background.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_off_background.png",
+        "source": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\src\\main\\res\\drawable\\checkbox_off_background.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chk.xml",
+        "source": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\src\\main\\res\\drawable\\chk.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_on_background_focus_yellow.png",
+        "source": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\src\\main\\res\\drawable\\checkbox_on_background_focus_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_off_background_focus_yellow.png",
+        "source": "C:\\Users\\test\\Desktop\\Multiple Choice ListView Android1\\app\\src\\main\\res\\drawable\\checkbox_off_background_focus_yellow.png"
+    }
+]
